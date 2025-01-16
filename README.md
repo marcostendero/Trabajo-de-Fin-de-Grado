@@ -1,4 +1,4 @@
-# Proyecto Final de Grado: Supervisión del Rendimiento y la Recuperación de Deportistas con Dispositivos Wearables
+# Proyecto de Fin de Grado: Supervisión del Rendimiento y la Recuperación de Deportistas con Dispositivos Wearables
 
 Este proyecto tuvo como objetivo desarrollar un sistema de supervisión del rendimiento y la recuperación de deportistas de contacto utilizando dispositivos wearables. El desarrollo constó de tres fases: configuración de una red personal de dispositivos, implementación de un sistema de monitoreo para capturar datos, y un sistema de análisis para evaluar el rendimiento y la recuperación, en el que se desarrolló un algoritmo de calificación de ambos parámetros según la literatura de las ciencias del deporte y la salud.
 
