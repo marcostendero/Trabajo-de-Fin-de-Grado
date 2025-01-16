@@ -37,7 +37,7 @@ Se pueden comprobar los resultados obtenidos en el capítulo 5 de la memoria.
 En general, se obtuvieron resultados muy positivos, demostrando que la interpretación de la literatura fue correcta. 
 
 ## Calificación Obtenida con el Proyecto
-Con este proyecto obtuve ua calificación de **10 - Matrícula de Honor ** en el Grado en Ingeniería de Telecomunicaciones por la Universidad de Granada.
+Con este proyecto obtuve ua calificación de **10 - Matrícula de Honor** en el Grado en Ingeniería de Telecomunicaciones por la Universidad de Granada.
 
 
 ## Contribuciones
